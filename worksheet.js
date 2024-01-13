@@ -27,6 +27,13 @@ const characters = [
         eye_color: 'blue',
         gender: 'male',
     },
+    {
+        name: 'James',
+        height: 183,
+        mass: 74,
+        eye_color: 'black',
+        gender: 'male',
+    },
 ];
 
 //***MAP***
